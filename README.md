@@ -8,7 +8,7 @@
 
 -   Install the package:
     ```bash
-    composer require coderello/laravel-shared-data
+    composer require lenius/laravel-shared-data
     ```
 
 -   Include the `@shared` directive into your blade layout before all scripts.
