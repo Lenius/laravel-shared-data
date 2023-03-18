@@ -2,10 +2,10 @@
 
 namespace Lenius\SharedData\Providers;
 
-use Lenius\SharedData\SharedData;
 use Illuminate\Contracts\Support\DeferrableProvider;
 use Illuminate\Support\ServiceProvider;
 use Illuminate\View\Compilers\BladeCompiler;
+use Lenius\SharedData\SharedData;
 
 class SharedDataServiceProvider extends ServiceProvider implements DeferrableProvider
 {
