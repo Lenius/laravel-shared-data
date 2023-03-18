@@ -2,9 +2,9 @@
 
 namespace Lenius\SharedData\Tests;
 
-use Lenius\SharedData\SharedData;
 use Illuminate\Contracts\Support\Arrayable;
 use JsonSerializable;
+use Lenius\SharedData\SharedData;
 use stdClass;
 
 class SharedDataTest extends AbstractTestCase
