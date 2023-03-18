@@ -6,7 +6,7 @@
 
 ## 🚀 Quick start
 
--   Install the package:
+-   Install the package
     ```bash
     composer require lenius/laravel-shared-data
     ```
